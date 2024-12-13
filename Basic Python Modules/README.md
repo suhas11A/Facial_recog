@@ -4,6 +4,10 @@
 NumPy is a Python library used for working with arrays.
 It also has functions for working in the domain of linear algebra, Fourier transform, and matrices.
 
+If you have never used Numpy or are not familiar with it, please go through this documentation clearly, step by step.
+If you have learned some of the topics before, you can navigate to respective topics from the menu bar on the right.
+You can go through any one of the 3 materials provided.
+
 ### Numpy Documentation:
 https://numpy.org/doc/stable/user/absolute_beginners.html 
 
@@ -16,10 +20,6 @@ Skip to 19:56
 ### Refer to this for the Numpy Video Tutorial in English:
 https://www.youtube.com/watch?v=QUT1VHiLmmI 
 			
-	
-If you have never used Numpy or are not familiar with it, please go through this documentation clearly, step by step.
-If you have learned some of the topics before, you can navigate to respective topics from the menu bar on the right.
-You can go through any one of the 3 materials provided.
 
 ## Numpy Advanced:(1 day)
 https://numpy.org/doc/stable/user/quickstart.html 
