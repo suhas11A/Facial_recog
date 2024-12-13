@@ -61,4 +61,4 @@ https://www.w3schools.com/python/matplotlib_intro.asp
 https://www.youtube.com/watch?v=9GvnrQv138s&list=PLjVLYmrlmjGcC0B_FP3bkJ-JIPkV5GuZR 
 
 ***
-## Please make sure, you know these modules thoroughly as it will be used in the course very frequently.
+Please make sure, you know these modules thoroughly as it will be used in the course very frequently.
