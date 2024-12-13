@@ -13,4 +13,5 @@ I am planning to cover this whole half in about 2 weeks.
 Implementing the Project! This should take about 8-10 days, 2 weeks at max. Obviously, I would require to see your **working** ipynb file for the final certificate.
 
 The **ONLY** requirement to pass this WIDS is to **complete the Second Half**, those peeps who want to skip the basics can directly jump to second half. 
+
 Stay engaged and practice consistently to make the most of this learning experience. Keep your enthusiasm high, and let’s begin this exciting journey into machine learning together!
