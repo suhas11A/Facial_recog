@@ -1,4 +1,8 @@
 # Learning Python Modules: NumPy, Pandas, and Matplotlib
+You may not bother to take notes pf these functions as you can get the code lines and functions that are present by ChatGPT just by mentioning the job you need to do via these python libraries. Alternatively, one can use the official documentation websites (each of the python libraries have **well** documented all of their functions online). In my opinion, today it is only expected of ML engineers to  generate **HIGHLY PRECISE** prompts to any of the AI tools and understand the code **LINE BY LINE** given by them.
+
+However, it is customary to remove your phobia (or getting more comfortable) via these excercises and it is suggested that the assignment on this is solved **WITHOUT** any AI tool help, it will help you for the future.
+
 ***
 ## Numpy Basics:(1 day)
 NumPy is a Python library used for working with arrays.
@@ -26,12 +30,13 @@ https://numpy.org/doc/stable/user/quickstart.html
 
 If you are familiar with NumPy or have completed the basics documentation, go through this carefully.
 ***
+
 ## Pandas:(2 days)
 Pandas is a Python library used for working with data sets.
 It has functions for analyzing, cleaning, exploring, and manipulating data.
 
 The following documentation contains a tutorial on Pandas from basic to advanced. Navigate through it using the menu bar on the left side according to your need, but do make sure on completion, you are aware of all the topics mentioned.
-You can go through any one of the 3 materials provided.
+You can go through any one of the 2 materials provided.
 
 ***
 ### Pandas Compiled Documentation:
@@ -42,15 +47,12 @@ https://www.w3schools.com/python/pandas/default.asp
 
 https://www.youtube.com/watch?v=JjuLJ3Sb_9U&list=PLjVLYmrlmjGdEE2jFpL71LsVH5QjDP5s4&index=2 
 
-### Refer to this for Pandas Video Tutorial in English:
-
-https://www.youtube.com/watch?v=ZyhVh-qRZPA&list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS 
-
-
 ***
 
 ## Matplotlib:(1 day)
 Matplotlib is a low-level graph plotting library in Python that serves as a visualization utility.
+
+The following documentation contains a tutorial on Matplotlib from basic to advanced. Navigate through it using the menu bar on the left side according to your need. Again, you must only gain awarness through this official documentation website and I feel you will best learn MatPlotLib by experience.
 ***
 ### Matplotlib Compiled Documentation:
 https://www.w3schools.com/python/matplotlib_intro.asp 
@@ -58,11 +60,5 @@ https://www.w3schools.com/python/matplotlib_intro.asp
 ### Refer to this for Matplotlib Video Tutorial in Hindi:
 https://www.youtube.com/watch?v=9GvnrQv138s&list=PLjVLYmrlmjGcC0B_FP3bkJ-JIPkV5GuZR 
 
-
-### Refer to this for Matplotlib Video Tutorial in English:
-https://www.youtube.com/watch?v=ANQSqWQrLSU&list=PLc20sA5NNOvpG9WlvjY7XTDWPAFBNgv_N&index=3 
-
-
-The following documentation contains a tutorial on Matplotlib from basic to advanced. Navigate through it using the menu bar on the left side according to your need, but do make sure on completion, you are aware of all the topics mentioned.
 ***
 ## Please make sure, you know these modules thoroughly as it will be used in the course very frequently.
