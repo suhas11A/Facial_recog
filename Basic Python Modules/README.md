@@ -1,5 +1,5 @@
 # Learning Python Modules: NumPy, Pandas, and Matplotlib
-You may not bother to take notes pf these functions as you can get the code lines and functions that are present by ChatGPT just by mentioning the job you need to do via these python libraries. Alternatively, one can use the official documentation websites (each of the python libraries have **well** documented all of their functions online). In my opinion, today it is only expected of ML engineers to  generate **HIGHLY PRECISE** prompts to any of the AI tools and understand the code **LINE BY LINE** given by them.
+You may not bother to take notes of these functions since you can get the code lines and all the exiting functions by ChatGPT just by mentioning the job you need to do via these python libraries. Alternatively, one can use the official documentation websites (each of the python libraries have **well** documented all of their functions online). In my opinion, today it is only expected of ML engineers to  generate **HIGHLY PRECISE** prompts to any of the AI tools and understand the code **LINE BY LINE** given by them.
 
 However, it is customary to remove your phobia (or getting more comfortable) via these excercises and it is suggested that the assignment on this is solved **WITHOUT** any AI tool help, it will help you for the future.
 
