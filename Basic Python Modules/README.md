@@ -21,7 +21,7 @@ Skip to 19:56
 https://www.youtube.com/watch?v=QUT1VHiLmmI 
 			
 
-## Numpy Advanced:(1 day)
+### Numpy Advanced:(Optional)
 https://numpy.org/doc/stable/user/quickstart.html 
 
 If you are familiar with NumPy or have completed the basics documentation, go through this carefully.
@@ -29,18 +29,18 @@ If you are familiar with NumPy or have completed the basics documentation, go th
 ## Pandas:(2 days)
 Pandas is a Python library used for working with data sets.
 It has functions for analyzing, cleaning, exploring, and manipulating data.
+
+The following documentation contains a tutorial on Pandas from basic to advanced. Navigate through it using the menu bar on the left side according to your need, but do make sure on completion, you are aware of all the topics mentioned.
+You can go through any one of the 3 materials provided.
+
 ***
 ### Pandas Compiled Documentation:
 
 https://www.w3schools.com/python/pandas/default.asp 
 
-The following documentation contains a tutorial on Pandas from basic to advanced. Navigate through it using the menu bar on the left side according to your need, but do make sure on completion, you are aware of all the topics mentioned.
-You can go through any one of the 3 materials provided.
-
 ### Refer to this for Pandas Video Tutorial in Hindi:
 
 https://www.youtube.com/watch?v=JjuLJ3Sb_9U&list=PLjVLYmrlmjGdEE2jFpL71LsVH5QjDP5s4&index=2 
-
 
 ### Refer to this for Pandas Video Tutorial in English:
 
