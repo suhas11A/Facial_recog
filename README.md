@@ -1,4 +1,4 @@
-# WIDS_2024_Facial_recognition_Basics
+# WIDS_2024_Facial_recognition
 I am Yug Agarwal, thirdie in Electrical Engineering. I am your mentor and will be managing this repo for WIDS 4.0 (2024). 
 
 ## Welcome to the First Half
