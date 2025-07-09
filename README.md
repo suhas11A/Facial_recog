@@ -104,10 +104,6 @@ Contributions are welcome! Please:
 4. Push to your branch (`git push origin feature/my-feature`)
 5. Open a pull request
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Contact
 
 For questions or support, open an issue or contact the maintainer.
